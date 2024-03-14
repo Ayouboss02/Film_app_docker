@@ -14,13 +14,13 @@ Assurez-vous d'avoir les éléments suivants installés :
 1. Clonez le dépôt :
 
    ```bash
-   git clone https://github.com/votre_nom/projet-api-films.git
+   git clone https://github.com/Ayouboss02/Film_app_docker.git
    ```
 
 2. Installez les dépendances :
 
    ```bash
-   cd projet-api-films
+   cd Film_app_docker
    npm install
    ```
 
@@ -66,6 +66,8 @@ Assurez-vous d'avoir les éléments suivants installés :
   - `episode_id` : ID de l'épisode du film (Nombre)
   - `producer` : Producteur du film (String)
 - **Réponse** : Retourne un objet JSON contenant un message de succès et les détails du film ajouté.
+
+  
 ### Affichage 
 ![image](https://github.com/Ayouboss02/Film_app_docker/assets/138698902/9474b80c-72e5-4947-8d6e-0f515436aabf)
 
